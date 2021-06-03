@@ -1,0 +1,36 @@
+{
+        "name": "@kevinrblx/signal",
+        "version": "1.1.0",
+        "description": "My personal implementation of signal.",
+        "main": "lib/init.lua",
+        "keywords": [
+                "Roblox",
+                "roblox-ts",
+                "signal"
+        ],
+        "author": "Kevinwkz",
+        "license": "MIT",
+        "types": "lib/index.d.ts",
+        "publishConfig": {
+                "access": "public"
+        },
+        "repository": {
+                "type": "git",
+                "url": "git+https://github.com/Kevinwkz/rbxts-signal.git"
+        },
+        "bugs": {
+                "url": "https://github.com/Kevinwkz/rbxts-signal/issues"
+        },
+        "homepage": "https://github.com/Kevinwkz/rbxts-signal/tree/master/README.md",
+        "devDependencies": {
+                "@rbxts/compiler-types": "^1.1.1-types.3",
+                "@rbxts/types": "^1.0.489"
+        },
+        "files": [
+                "lib",
+                "README.md"
+        ],
+        "dependencies": {
+                "roblox-ts": "^1.1.1"
+        }
+}

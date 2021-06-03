@@ -1,0 +1,4 @@
+.vscode
+include
+node_modules
+**/template*[.lua,.ts?x]
