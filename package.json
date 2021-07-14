@@ -1,6 +1,6 @@
 {
-        "name": "@rimuy-rbxts/signal",
-        "version": "1.0.2",
+        "name": "@rimuyn/signal",
+        "version": "1.0.0",
         "description": "My personal implementation of signal.",
         "main": "lib/init.lua",
         "keywords": [
@@ -24,8 +24,7 @@
         "homepage": "https://github.com/Rimuy/rbxts-signal/tree/master/README.md",
         "devDependencies": {
                 "@rbxts/compiler-types": "^1.2.1-types.0",
-                "@rbxts/types": "^1.0.503",
-                "roblox-ts": "^1.2.2"
+                "@rbxts/types": "^1.0.503"
         },
         "files": [
                 "lib",
